@@ -129,8 +129,9 @@ const CategoryForm = ({
                                 <FormItem>
                                     <FormControl>
                                     <Combobox
-                                        options={...options}
-                                        {...field}
+                                        {...field} 
+                                        options={options}  
+                                        onChange={(value: string) => field.onChange(value)}
                                     />
                                     </FormControl>
                                     <FormMessage />
