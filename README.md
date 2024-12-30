@@ -1,6 +1,6 @@
 <h1>LMS(Learning Management System) Platform</h1>
 
-#Live Link for the project to checkout-
+# Live Link for the project to checkout-
 https://anant-lms-project.vercel.app/
 
 # Features
