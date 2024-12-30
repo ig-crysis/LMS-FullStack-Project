@@ -2,10 +2,10 @@
 
 ## ✨ Features
 
-![Image 1]([https://github.com/user-attachments/assets/a27ee220-beb7-4c7e-8c1b-2c44301f82ef](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS2.jpg))
-![Image 2]([https://github.com/user-attachments/assets/eb5f5f15-ed90-47fc-811c-03ccba6fa8a2](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS3.jpg))
-![Image 3]([https://github.com/user-attachments/assets/d51786ee-ddd8-4ef8-8138-5192e9cfe7c3](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS4.jpg)) 
-![Image 4]([https://github.com/user-attachments/assets/91f83c89-22f6-43d6-b7aa-d2d3378289fb](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS5.jpg)) 
+![Image 1](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS2.jpg)
+![Image 2](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS3.jpg)
+![Image 3](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS4.jpg)
+![Image 4](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS5.jpg)
 
 # Live Link for the project to checkout-
 https://anant-lms-project.vercel.app/
