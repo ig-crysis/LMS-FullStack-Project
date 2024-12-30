@@ -1,11 +1,11 @@
 <h1>LMS(Learning Management System) Platform</h1>
+![Logo](https://github.com/ig-crysis/LMS-FullStack-Project/blob/671172f7c7eb8a023c324ed6147534feef874149/LMSIMG/LMS1.jpg)
 
 ## ✨ Features
 
-![Image 1](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS2.jpg)
-![Image 2](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS3.jpg)
-![Image 3](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS4.jpg)
-![Image 4](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS5.jpg)
+| ![Image 1](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS2.jpg) | ![Image 2](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS3.jpg) |
+|--------------------------------|--------------------------------|
+| ![Image 3](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS4.jpg) | ![Image 4](https://github.com/ig-crysis/LMS-FullStack-Project/blob/a1edb8f8601c25098135471d3ca22c1178d03f7e/LMSIMG/LMS5.jpg) |
 
 # Live Link for the project to checkout-
 https://anant-lms-project.vercel.app/
