@@ -28,7 +28,7 @@ https://anant-lms-project.vercel.app/
 - Rich text editor for chapter description
 - Authentication using Clerk
 - ORM using Prisma
-- MySQL database using Planetscale
+- MongoDB database
 
 ## Tech Stack
 
